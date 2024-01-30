@@ -29,7 +29,7 @@
  - [x] git commit
  - [x] git remote add
  - [x] git push
- - [] git pull
+ - [ ] git pull
  - [x] git branch
 
 
